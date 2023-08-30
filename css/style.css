@@ -276,16 +276,8 @@ hr{
         width: 350px;
     }
 
-    .zaman h1 {
-        font-size: 20px;
-    }
-
-    .zamann {
-        flex-direction: column;
-    }
-
-    .zamans {
-        margin: 15px 0px;
+    .zaman {
+        display: none;
     }
 
     hr {
